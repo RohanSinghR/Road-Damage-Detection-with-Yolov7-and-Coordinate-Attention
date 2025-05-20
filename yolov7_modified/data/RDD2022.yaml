@@ -1,0 +1,5 @@
+train: datasets/RDD2022_combined/images/train
+val: datasets/RDD2022_combined/images/val
+
+nc: 6
+names: ['D00', 'D10', 'D20', 'D40', 'D43', 'D44']
