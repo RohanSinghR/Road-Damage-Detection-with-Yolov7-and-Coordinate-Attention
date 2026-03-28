@@ -82,7 +82,6 @@ Standard channel attention (e.g. SE blocks) aggregates spatial information into 
 
 - [YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors](https://arxiv.org/abs/2207.02696)
 - [Coordinate Attention for Efficient Mobile Network Design](https://arxiv.org/abs/2103.02907)
-- [RDD2022 Dataset](https://github.com/sekilab/RoadDamageDetector)
 
 ---
 
